@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+.icon-class {
+    color: white;
+}
+
+.mb--50{
+    margin-bottom:-50px;
+}
+nav li a {
+    font-family: 'Manrope', sans-serif;
+    letter-spacing: 0.3px !important;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Manrope', sans-serif;
+    letter-spacing: 0.3px !important;
+}
+.dot:before {
+    content: '.';
+    font-family: Georgia,Times,Times New Roman,serif;
+    line-height: 0.3px;
+    font-size: 1.4em;
+    color: #E52500;
+}
+
+.start-order{
+     font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.3px !important;
+}
+
+#cols {
+    -moz-column-count: 3;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    column-count: 3;
+    column-gap: 20px;
+}
+
+.line-space h5 {
+    letter-spacing: 0.1px !important;
+}
+
+
+
+/*.icon-hover icon-featured {
+    height: 10px !important;
+    width: 10px !important;
+    padding: 0px 0px 0px 0px !important;
+    margin:0px !important;
+}   */  
+
+
+icon-featured:hover {
+    background-color: #FFCF79;
+}
+
+.footer-box {
+    /*border: solid 0.5px black !important;*/
+/*    border-radius: 5px !important;
+*/   /* background-color: #5A5A5A;*/
+}
+
+.hover-child{
+    margin-bottom:-10px !important;
+}
+
+.btn-border{
+    border:solid 2px red;
+             }
+.btn-order{
+    padding:10px 20px !important;
+}
+
+.font-weight-boldest{
+    font-weight:900;
+}
+.img-testimonial {
+    border-radius: 50%;
+    width: 100px !important;
+    height: 100px !important;
+}
+
+section h2{
+    letter-spacing: -0.5px !important;
+    font-weight:500;
+    font-size:41px;
+    margin-bottom:14px;
+}
+
+.icon-featured.flaticon {
+    width: 100px!important;
+    height: 100px!important;
+    font-size: 55px!important;
+    line-height: 118px!important;
+    font-weight:600!important;
+}
+
+/* .featured-boxes-style-3 .featured-box.featured-box-primary .icon-featured {
+    border-color: none !important;
+}*/
+ .featured-boxes-style-3 .featured-box.featured-box-primary .icon-featured {
+    border: none!important;
+}
+.img-credits {
+    border-radius: 50%;
+    border: 6px solid #DDD;
+}
+.img-credits:hover{
+    opacity:0.9;
+}
+.text-purple {
+    color: #803487!important;
+}

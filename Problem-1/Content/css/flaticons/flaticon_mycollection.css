@@ -1,0 +1,1205 @@
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("flaticon_mycollection.ttf?f14ae2b2b619ee7de13c5460d9e0937b") format("truetype"),
+url("flaticon_mycollection.woff?f14ae2b2b619ee7de13c5460d9e0937b") format("woff"),
+url("flaticon_mycollection.woff2?f14ae2b2b619ee7de13c5460d9e0937b") format("woff2"),
+url("flaticon_mycollection.eot?f14ae2b2b619ee7de13c5460d9e0937b#iefix") format("embedded-opentype"),
+url("flaticon_mycollection.svg?f14ae2b2b619ee7de13c5460d9e0937b#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-complete-e-commerce-solution:before,
+.flaticon-django-e-commerce-development:before,
+.flaticon-laravel-ecommerce-development:before,
+.flaticon-ecommerce-development-using-php:before,
+.flaticon-e-commerce-solutions:before,
+.flaticon-professional-and-customizable-online-store:before {
+    content: "\f101";
+}
+.flaticon-customs-services:before,
+.flaticon-on-the-go-customer-assistance:before,
+.flaticon-custom-php-solutions:before,
+.flaticon-versatile-services:before,
+.flaticon-reliable-support:before,
+.flaticon-we-offer-end-to-end-support-in-launching-e-co:before,
+.flaticon-maintenance-support:before,
+.flaticon-maintenance-and-support:before,
+.flaticon-ongoing-support-and-maintenance:before,
+.flaticon-customization:before,
+.flaticon-versatile-and-customizable-online-store:before,
+.flaticon-excellent-solutions:before,
+.flaticon-excellent-customer-service:before,
+.flaticon-excellent-customer-support:before,
+.flaticon-exceptional-customer-support:before {
+    content: "\f102";
+}
+.flaticon-professional-expertise:before,
+.flaticon-creative-design-expertise:before,
+.flaticon-expertise:before,
+.flaticon-experience-and-expertise:before,
+.flaticon-proven-professionals-delivering-exceptional-w:before,
+.flaticon-experienced-professionals:before,
+.flaticon-outstanding-technical-expertise:before,
+.flaticon-unparalleled-expertise:before,
+.flaticon-top-tier-expertise:before,
+.flaticon-meet-our-experts:before,
+.flaticon-professional-and-experienced-design-team:before,
+.flaticon-expert-assistance:before,
+.flaticon-unmatched-expertise:before,
+.flaticon-expert-guidance-and-posing-assistance:before,
+.flaticon-expert-guidance-and-strategy:before,
+.flaticon-exceptional-creative-team:before,
+.flaticon-our-team-consists-of-exceptional-and-highly-s:before,
+.flaticon-expertise-and-experience:before,
+.flaticon-leveraging-expert-advice:before,
+.flaticon-professional-team:before,
+.flaticon-we-have-a-broad-team-of-specialists-striving:before,
+.flaticon-dedicated-support:before,
+.flaticon-expert-support:before {
+    content: "\f103";
+}
+.flaticon-dedicated-team:before,
+.flaticon-we-offer-dedicated-developers-for-your-projec:before,
+.flaticon-dedicated-support-and-active-community:before,
+.flaticon-trusted-by-millions:before {
+    content: "\f104";
+}
+.flaticon-unique-designs:before,
+.flaticon-bespoke-laravel-website-solutions:before,
+.flaticon-highly-interactive-websites-and-php-designs:before,
+.flaticon-customized-design-and-layout:before,
+.flaticon-iterative-design-process:before,
+.flaticon-customized-solutions:before,
+.flaticon-distinctive-approach-and-design:before,
+.flaticon-we-handle-everything-from-strategy-to-design:before,
+.flaticon-customized-website-design:before,
+.flaticon-award-winning-design:before {
+    content: "\f105";
+}
+.flaticon-future-proof-solutions:before, 
+.flaticon-seamless-order-fulfillment:before
+ {
+    content: "\f106";
+}
+.flaticon-customer-support:before,
+.flaticon-ongoing-support-and-collaboration:before,
+.flaticon-seamless-collaboration:before,
+.flaticon-ongoing-support:before,
+.flaticon-dedicated-community-and-support:before,
+.flaticon-helpful-dedicated-customer-support:before {
+    content: "\f107";
+}
+.flaticon-we-provide-specialized-services-including-pre:before,
+.flaticon-comprehensive-services:before,
+.flaticon-wordpress-end-to-end-services:before {
+    content: "\f108";
+}
+.flaticon-we-offer-end-to-end-services-encompassing-web:before,
+.flaticon-custom-web-application-development:before,
+.flaticon-structured-and-semantic-markup:before,
+.flaticon-technical-expertise:before,
+.flaticon-web-development:before,
+.flaticon-code-optimization-and-minification:before,
+.flaticon-understanding-custom-web-portal-development:before,
+.flaticon-skilled-website-design-professionals:before,
+.flaticon-years-of-expertise-and-extensive-experience-i:before,
+.flaticon-hire-html-programmer:before {
+    content: "\f10b";
+}
+.flaticon-our-services-are-customized-to-perfectly-alig:before
+{
+    content: "\f109";
+}
+.flaticon-logo-design:before,
+.flaticon-diverse-design-specializations:before,
+.flaticon-logo-style-guidelines:before {
+    content: "\f10a";
+}
+.flaticon-branding:before,
+.flaticon-brand-identity-development:before,
+.flaticon-logo-rebranding:before,
+.flaticon-marketing-and-branding:before,
+.flaticon-brand-consistency:before,
+.flaticon-strategic-branding-and-advertising-solutions:before {
+    content: "\f10c";
+}
+.flaticon-seo:before,
+.flaticon-seo-friendly-approach:before,
+.flaticon-seo-audit:before,
+.flaticon-seo-benefits:before,
+.flaticon-local-seo:before,
+.flaticon-seo-friendly-website:before,
+.flaticon-exceptional-seo-optimized-content:before,
+.flaticon-search-engine-optimization-seo:before,
+.flaticon-optimizing-websites-for-improved-search-engin:before,
+.flaticon-search-engine-optimized:before,
+.flaticon-powerful-features:before,
+.flaticon-powerful-marketing-and-seo-tools:before,
+.flaticon-advanced-seo-features:before,
+.flaticon-seo-optimization:before,
+.flaticon-search-engine-optimization:before {
+    content: "\f10d";
+}
+.flaticon-at-affordable-prices-we-deliver-high-performa:before {
+    content: "\f10e";
+}
+.flaticon-mobile-development:before,
+.flaticon-mobile-compatibility:before,
+.flaticon-mobile-accessibility:before,
+.flaticon-mobile-friendly-design:before {
+    content: "\f10f";
+}
+.flaticon-ux-design,
+.flaticon-digital-artistry:before,
+.flaticon-xamarin-uiux-design:before,
+.flaticon-flutter-app-ui-and-ux:before,
+.flaticon-improved-user-experience-and-engagement:before,
+.flaticon-personalized-user-experience:before,
+.flaticon-improved-user-experience:before,
+.flaticon-innovative-design-and-user-experience:before,
+.flaticon-enhanced-user-experience:before,
+.flaticon-better-uiux:before,
+.flaticon-creative-and-engaging-designs:before,
+.flaticon-uiux-design:before,
+.flaticon-superior-user-experience:before,
+.flaticon-comprehensive-web-design-solutions:before,
+.flaticon-creative-illustration-and-graphic-design-solu:before,
+.flaticon-creating-visually-captivating-and-intuitive-d:before,
+.flaticon-seamless-user-experience:before {
+    content: "\f110";
+}
+.flaticon-secure-website:before,
+.flaticon-security-enhancements:before,
+.flaticon-security-and-compliance:before,
+.flaticon-privacy-and-security:before,
+.flaticon-compliance-and-security:before,
+.flaticon-enhanced-security-measures:before {
+    content: "\f111";
+}
+.flaticon-ease-of-use:before,
+.flaticon-increased-user-engagement:before
+ {
+    content: "\f112";
+}
+.flaticon-responsive-design:before,
+.flaticon-compatibility-and-cross-browser-support:before,
+.flaticon-responsive-layout:before,
+.flaticon-responsive-and-mobile-friendly-design:before,
+.flaticon-responsive-web-design-html:before,
+.flaticon-creating-websites-that-seamlessly-adapt-to-di:before,
+.flaticon-responsive-and-user-friendly-designs:before,
+.flaticon-mobile-responsive-layout:before,
+.flaticon-mobile-responsiveness:before {
+    content: "\f113";
+}
+.flaticon-traffic-growth-over-time:before,
+.flaticon-like-your-ambitious-business-we-are-driven-by:before,
+.flaticon-integration-with-third-party-services:before,
+.flaticon-integration-capabilities:before,
+.flaticon-integrated-business-tools:before {
+    content: "\f114";
+}
+.flaticon-flawless-implementation:before {
+    content: "\f115";
+}
+.flaticon-we-assure-you-of-utmost-satisfaction-and-conv:before,
+.flaticon-we-offer-unlimited-revision-till-you-are-100:before,
+.flaticon-client-satisfaction:before,
+.flaticon-customer-focused-approaches:before,
+.flaticon-client-centric-focus:before,
+.flaticon-enhanced-customer-experience:before,
+.flaticon-customer-satisfaction:before,
+.flaticon-we-are-detailed-oriented-focusing-on-every-as:before {
+    content: "\f116";
+}
+.flaticon-payment:before,
+.flaticon-we-offer-high-quality-work-at-affordable-pric:before,
+.flaticon-highly-cost-effective:before,
+.flaticon-we-help-you-save-your-budget-on-an-experiment:before,
+.flaticon-cost-competent-development:before,
+.flaticon-our-seo-sem-and-smo-solutions-are-reasonably:before,
+.flaticon-cost-effective-solutions:before,
+.flaticon-cost-effectiveness:before,
+.flaticon-cost-effective-bundles:before,
+.flaticon-cost-effective-solution:before,
+.flaticon-financial-consulting:before,
+.flaticon-seamless-payment-processing:before,
+.flaticon-competitive-pricing:before,
+.flaticon-transparent-pricing:before,
+.flaticon-affordable-pricing:before {
+    content: "\f117";
+}
+
+
+.flaticon-bullhorn:before,
+.flaticon-multi-channel-integration:before,
+.flaticon-profile-creation:before,
+.flaticon-off-page-seo:before,
+.flaticon-we-offer-digital-marketing-services-to-add-on:before,
+.flaticon-digital-marketing:before,
+.flaticon-we-offer-multi-platform-social-media-marketin:before,
+.flaticon-attention-grabbing-social-media-content:before,
+.flaticon-social-media-integration:before {
+    content: "\f118";
+}
+
+.flaticon-brand-engagement:before,
+.flaticon-expert-in-review-management-and-customer-enga:before,
+.flaticon-result-driven-strategy:before,
+.flaticon-practical-and-results-driven-approach:before,
+.flaticon-high-quality-results:before,
+.flaticon-we-serve-as-your-all-in-one-solution-provider:before,
+.flaticon-results-driven-approach:before,
+.flaticon-analytics-driven-results:before,
+.flaticon-effective-brand-management:before,
+.flaticon-tailored-solutions-that-cater-to-your-specifi:before,
+.flaticon-tailored-functionality-for-optimal-performanc:before,
+.flaticon-tailored-design-solutions:before,
+.flaticon-tailored-solutions-for-efficient-operations:before {
+    content: "\f119";
+}
+
+.flaticon-manager:before, 
+.flaticon-expert-branding-specialists:before {
+    content: "\f11a";
+}
+
+.flaticon-strategy:before,
+.flaticon-we-provide-tailor-made-social-media-strategie:before,
+.flaticon-xamarin-consulting-and-strategy:before,
+.flaticon-business-strategy-and-planning:before,
+.flaticon-campaign-strategy-and-planning:before,
+.flaticon-tailored-strategies:before,
+.flaticon-strategic-branding-and-advertising-solutions:before,
+.flaticon-we-adopt-a-forward-looking-strategy-to-ensure:before {
+    content: "\f11b";
+}
+
+.flaticon-group-idea:before,
+.flaticon-influencer-outreach-and-collaboration:before,
+.flaticon-client-collaboration:before,
+.flaticon-collaborative-approach:before,
+.flaticon-the-power-of-collaboration:before,
+.flaticon-strategic-marketing-repositioning:before,
+.flaticon-we-bring-fresh-ideas-but-we-also-value-your-f:before {
+    content: "\f11c";
+}
+
+.flaticon-content-management:before,
+.flaticon-content-management-system-cms-support:before,
+.flaticon-wide-range-of-content-types:before,
+.flaticon-content-creation-and-management:before,
+.flaticon-user-friendly-content-management-system-cms:before,
+.flaticon-django-cms-development:before,
+.flaticon-user-friendly-content-management:before {
+    content: "\f11d";
+}
+
+.flaticon-interactive:before, 
+.flaticon-interactive-and-engaging-features:before, 
+.flaticon-built-in-features:before {
+    content: "\f11e";
+}
+
+.flaticon-html-5:before,
+.flaticon-website-design-and-development:before,
+.flaticon-html5-development:before,
+.flaticon-harnessing-the-latest-advancements-in-web-dev:before {
+    content: "\f11f";
+}
+
+.flaticon-assurance:before,
+.flaticon-quality-assurance-and-testing:before,
+.flaticon-xamarin-testing-and-quality-assurance:before,
+.flaticon-app-testing-and-quality-assurance:before,
+.flaticon-focus-on-results:before,
+.flaticon-tailored-solutions-for-your-needs:before,
+.flaticon-tailored-solutions-for-your-website:before,
+.flaticon-comprehensive-website-analysis:before,
+.flaticon-quality-assurance:before,
+.flaticon-quality-and-attention-to-detail:before,
+.flaticon-attention-to-detail:before,
+.flaticon-affordable-quality:before {
+    content: "\f120";
+}
+
+.flaticon-on-time:before,
+.flaticon-no-time-zone-difference:before,
+.flaticon-timeless-and-versatile-designs:before,
+.flaticon-fast-and-convenient-delivery:before,
+.flaticon-timely-delivery-and-support:before,
+.flaticon-timely-delivery:before {
+    content: "\f121";
+}
+
+.flaticon-demand:before,
+.flaticon-committed-to-excellence-every-step-of-the-way:before,
+.flaticon-captivate-your-audience:before,
+.flaticon-integrated-management-of-business-processes:before {
+    content: "\f122";
+}
+
+.flaticon-globalization:before,
+.flaticon-all-in-one-solution:before,
+.flaticon-competitive-advantage:before {
+    content: "\f123";
+}
+
+.flaticon-website-1:before,
+.flaticon-bespoke-php-web-development:before,
+.flaticon-compelling-website-content:before,
+.flaticon-custom-html-website-development:before,
+.flaticon-customizable-and-user-friendly-interface:before,
+.flaticon-intuitive-website-builder:before,
+.flaticon-user-friendly-interface:before {
+    content: "\f124";
+}
+
+.flaticon-wordpress:before, 
+.flaticon-best-indian-wordpress-developer:before{
+    content: "\f125";
+}
+
+.flaticon-web-plugin:before,
+.flaticon-custom-plugins-for-unique-features:before,
+.flaticon-extensive-range-of-extensions-and-plugins:before,
+.flaticon-extensive-plugin-ecosystem:before {
+    content: "\f126";
+}
+
+.flaticon-solution:before,
+.flaticon-support-and-maintenance:before,
+.flaticon-app-maintenance-and-support:before,
+.flaticon-comprehensive-support-maintenance-and-unwaver:before,
+.flaticon-django-support-and-maintenance:before,
+.flaticon-support-and-maintenance-services:before,
+.flaticon-we-offer-all-services-under-one-roof:before,
+.flaticon-dedicated-assistance-and-maintenance-to-ensur:before,
+.flaticon-comprehensive-range-of-consulting-services:before,
+.flaticon-superior-maintenance-service:before {
+    content: "\f127";
+}
+
+.flaticon-revision:before,
+.flaticon-comprehensive-patient-record-management:before{
+    content: "\f128";
+}
+
+.flaticon-relationship:before,
+.flaticon-we-strive-to-build-long-term-relationships-wi:before,
+.flaticon-improved-customer-relationship-management:before,
+.flaticon-long-term-partnership:before,
+.flaticon-collaborative-partnership:before {
+    content: "\f129";
+}
+
+.flaticon-banking:before,
+.flaticon-secure-and-reliable-transactions:before,
+.flaticon-secure-and-reliable-payment-options:before {
+    content: "\f12a";
+}
+
+.flaticon-report:before,
+.flaticon-performance-reporting-and-analytics:before,
+.flaticon-robust-reporting-and-analytics:before,
+.flaticon-analytics-and-reporting:before,
+.flaticon-reporting-and-analytics:before,
+.flaticon-data-analytics-and-reporting:before,
+.flaticon-ad-reporting-and-moderation:before,
+.flaticon-powerful-analytics-and-reporting:before,
+.flaticon-actionable-analytics-and-reports:before,
+.flaticon-customizable-reports:before,
+.flaticon-robust-functionality-and-performance:before,
+.flaticon-robust-point-of-sale-solutions:before {
+    content: "\f12b";
+}
+
+.flaticon-integration:before,
+.flaticon-seamless-integration:before,
+.flaticon-integration-services:before,
+.flaticon-api-integration:before,
+.flaticon-seamless-functionality:before,
+.flaticon-api-development:before,
+.flaticon-django-api-development-and-integration:before,
+.flaticon-cutting-edge-techniques-and-tools:before,
+.flaticon-data-integration-and-centralization:before,
+.flaticon-seamless-integration-for-enhanced-connectivit:before,
+.flaticon-seamless-integration-of-dynamic-features-and:before,
+.flaticon-integration-with-external-platforms:before,
+.flaticon-seamless-integration-with-wordpress:before,
+.flaticon-integration-and-compatibility:before {
+    content: "\f12c";
+}
+
+.flaticon-scalable:before,
+.flaticon-scalability-and-integration:before,
+.flaticon-future-proof-and-scalable:before,
+.flaticon-versatile-and-scalable-e-commerce-solution:before,
+.flaticon-scalability-and-flexibility:before,
+.flaticon-customization-and-flexibility:before,
+.flaticon-scalability-and-growth:before,
+.flaticon-versatility-and-flexibility:before {
+    content: "\f12d";
+}
+
+.flaticon-cyber-security:before,
+.flaticon-proactive-approach-to-security:before,
+.flaticon-data-security:before,
+.flaticon-security:before,
+.flaticon-robust-security:before,
+.flaticon-security-and-trust:before,
+.flaticon-data-security-and-privacy:before,
+.flaticon-ensuring-high-performance-and-robust-security:before,
+.flaticon-robust-security-and-reliable-performance:before,
+.flaticon-robust-and-reliable-platform:before {
+    content: "\f12e";
+}
+
+.flaticon-hosting:before,
+.flaticon-laravel-cloud-solutions:before,
+.flaticon-cloud-hosting-and-maintenance:before,
+.flaticon-deployment-and-hosting:before,
+.flaticon-app-store-deployment:before,
+.flaticon-reliable-hosting-and-security:before,
+.flaticon-reliable-hosting-and-support:before {
+    content: "\f12f";
+}
+
+.flaticon-ui-design-1:before,
+.flaticon-web-and-ui-design:before,
+.flaticon-custom-design:before,
+.flaticon-mobile-optimized-experience:before,
+.flaticon-mobile-optimized-designs:before,
+.flaticon-mobile-optimized-websites:before,
+.flaticon-flexible-customizable-designs:before,
+.flaticon-mobile-optimization:before,
+.flaticon-flexible-customization:before,
+.flaticon-tailored-approach:before,
+.flaticon-tailored-solutions-for-your-unique-needs:before,
+.flaticon-we-offer-personalized-solutions-for-your-uniq:before,
+.flaticon-mobile-payments-made-simple:before {
+    content: "\f130";
+}
+
+.flaticon-web-design:before,
+.flaticon-customizability:before,
+.flaticon-innovative-design-and-technology:before,
+.flaticon-laravel-template-development:before,
+.flaticon-customized-design-and-themes:before,
+.flaticon-versatile-templates:before,
+.flaticon-stunning-templates:before,
+.flaticon-extensive-range-of-customizable-themes:before,
+.flaticon-beautiful-templates:before,
+.flaticon-professional-and-modern-design:before,
+.flaticon-stunning-visual-design:before,
+.flaticon-stunning-and-user-friendly-designs:before,
+.flaticon-customized-design:before,
+.flaticon-customized-designs:before,
+.flaticon-customizable-templates:before {
+    content: "\f131";
+}
+
+.flaticon-product:before,
+.flaticon-app-market:before,
+.flaticon-market-viability:before,
+.flaticon-advanced-functionality:before,
+.flaticon-essential-features:before {
+    content: "\f132";
+}
+
+.flaticon-flexibility:before,
+.flaticon-tailored-solutions:before,
+.flaticon-extensive-customization-options:before,
+.flaticon-customization-options:before {
+    content: "\f133";
+}
+
+.flaticon-develop:before,
+.flaticon-expertise-in-wix:before,
+.flaticon-extensive-shopify-expertise:before,
+.flaticon-we-are-the-experts:before {
+    content: "\f134";
+}
+
+.flaticon-content:before,
+.flaticon-content-evaluation:before,
+.flaticon-content-creation-and-marketing:before,
+.flaticon-engaging-content:before,
+.flaticon-five-pages-of-content:before {
+    content: "\f135";
+}
+
+.flaticon-contact-form:before,
+.flaticon-amplify-your-message:before,
+.flaticon-registration-and-authentication:before,
+.flaticon-contact-form-integration:before {
+    content: "\f136";
+}
+
+.flaticon-navigation:before,
+.flaticon-intuitive-navigation:before {
+    content: "\f137";
+}
+
+.flaticon-efficiency:before,
+.flaticon-time-and-cost-efficiency:before
+{
+    content: "\f138";
+}
+
+.flaticon-data-driven:before,
+.flaticon-data-driven-approach:before,
+.flaticon-real-time-data:before,
+.flaticon-collaboration-and-data-sharing:before,
+.flaticon-data-driven-decision-making:before,
+.flaticon-data-driven-insights:before,
+.flaticon-analytics-and-insights:before {
+    content: "\f139";
+}
+
+.flaticon-filter:before,
+.flaticon-job-search-and-filters:before,
+.flaticon-advanced-search-and-filters:before {
+    content: "\f13a";
+}
+
+.flaticon-search:before,
+.flaticon-powerful-search-functionality:before{
+    content: "\f13b";
+}
+
+.flaticon-social-reach:before,
+.flaticon-extensive-network-of-influencers:before,
+.flaticon-targeted-reach:before,
+.flaticon-targeted-audience-reach:before,
+.flaticon-targeted-audience-engagement:before {
+    content: "\f13c";
+}
+
+.flaticon-agreement:before,
+.flaticon-expertise-in-real-estate:before {
+    content: "\f13d";
+}
+
+.flaticon-robust:before,
+.flaticon-security-audits-and-enhancements:before {
+    content: "\f13e";
+}
+
+.flaticon-to-do-list:before,
+.flaticon-influencer-vetting-and-selection:before,
+.flaticon-streamlined-appointment-management:before,
+.flaticon-appointment-scheduling:before,
+.flaticon-appointment-scheduling-and-reminders:before,
+.flaticon-order-management-and-fulfillment:before,
+.flaticon-order-management:before,
+.flaticon-proven-track-record:before,
+.flaticon-proven-success-stories:before,
+.flaticon-proven-results:before,
+.flaticon-job-listings:before {
+    content: "\f13f";
+}
+
+.flaticon-approach:before,
+.flaticon-customized-approach:before,
+.flaticon-technology-and-it-consulting:before,
+.flaticon-client-centric-approach:before,
+.flaticon-user-centric-approach:before {
+    content: "\f140";
+}
+
+.flaticon-infographic:before,
+.flaticon-performance-optimization:before {
+    content: "\f141";
+}
+
+.flaticon-monetization:before,
+.flaticon-monetization-options:before,
+.flaticon-monetization-opportunities:before,
+.flaticon-online-payment-capabilities:before,
+.flaticon-secure-payment-and-project-management:before,
+.flaticon-improved-efficiency-and-productivity:before,
+.flaticon-optimized-productivity:before,
+.flaticon-secure-payment-gateway:before {
+    content: "\f142";
+}
+
+.flaticon-match:before,
+.flaticon-efficient-matchmaking:before{
+    content: "\f143";
+}
+
+.flaticon-conversation:before,
+.flaticon-collaborative-communication:before,
+.flaticon-enhanced-employee-engagement:before,
+.flaticon-effective-communication:before,
+.flaticon-collaborative-excellence:before,
+.flaticon-collaboration-and-communication:before,
+.flaticon-seamless-communication:before,
+.flaticon-enhanced-collaboration-and-communication:before,
+.flaticon-real-time-communication-and-collaboration:before,
+.flaticon-collaborative-efforts:before,
+.flaticon-real-time-communication-tools:before,
+.flaticon-real-time-communication:before,
+.flaticon-communication-tools:before {
+    content: "\f144";
+}
+
+.flaticon-manufacture:before,
+.flaticon-seamless-integration-and-functionality:before,
+.flaticon-integration-with-other-systems:before,
+.flaticon-api-development-and-integration:before,
+.flaticon-third-party-api-integration:before {
+    content: "\f145";
+}
+
+.flaticon-programing:before,
+.flaticon-comprehensive-evaluation:before,
+.flaticon-browser-caching-implementation:before,
+.flaticon-multi-platform-campaign-optimization:before,
+.flaticon-multi-platform-optimization:before,
+.flaticon-multi-platform-distribution:before,
+.flaticon-increased-reach-and-visibility:before,
+.flaticon-brand-building-and-visibility:before,
+.flaticon-increased-visibility-and-reach:before {
+    content: "\f146";
+}
+
+.flaticon-portal:before,
+.flaticon-competitive-edge:before {
+    content: "\f147";
+}
+
+.flaticon-workflow:before,
+.flaticon-comprehensive-campaign-management:before,
+.flaticon-streamlined-workflows-and-collaboration:before,
+.flaticon-interactive-data-visualizations:before,
+.flaticon-enhanced-data-visualization:before,
+.flaticon-visual-appeal:before {
+    content: "\f148";
+}
+
+.flaticon-development:before,
+.flaticon-transparency-and-integrity:before,
+.flaticon-scalability-and-upgrades:before,
+.flaticon-upgrades-and-enhancements:before,
+.flaticon-iterative-development:before,
+.flaticon-with-extensive-industry-experience-spanning-s:before,
+.flaticon-scalability-and-adaptability-for-business-gro:before,
+.flaticon-business-growth-and-networking:before {
+    content: "\f149";
+}
+
+.flaticon-data-analysis:before,
+.flaticon-campaign-monitoring-and-optimization:before,
+.flaticon-influencer-identification-and-selection:before,
+.flaticon-continuous-campaign-monitoring-and-optimizati:before,
+.flaticon-we-excel-in-proactive-monitoring-and-analysis:before,
+.flaticon-continuous-monitoring-and-optimization:before,
+.flaticon-sales-tracking-and-analysis:before,
+.flaticon-real-time-monitoring-and-tracking:before,
+.flaticon-sales-monitoring:before,
+.flaticon-requirement-analysis:before,
+.flaticon-advanced-analytics-and-insights:before,
+.flaticon-data-insights-and-analytics:before {
+    content: "\f14a";
+}
+
+.flaticon-salary:before {
+    content: "\f14b";
+}
+
+.flaticon-employee:before,
+.flaticon-employee-data-management:before,
+.flaticon-expert-profiling-and-verification:before,
+.flaticon-profiles-and-settings:before {
+    content: "\f14c";
+}
+
+.flaticon-recruitment:before,
+.flaticon-flexibility-in-hiring:before,
+.flaticon-flexible-hiring-options:before,
+.flaticon-no-recruitment-hassles:before,
+.flaticon-custom-hrms-development:before,
+.flaticon-streamlined-hr-processes:before {
+    content: "\f14d";
+}
+
+.flaticon-inventory:before,
+.flaticon-concept-development:before,
+.flaticon-creative-concept-development:before,
+.flaticon-inventory-management-made-easy:before,
+.flaticon-streamlined-inventory-management:before,
+.flaticon-real-time-inventory-tracking:before,
+.flaticon-payroll-processing:before,
+.flaticon-property-details-and-media:before {
+    content: "\f14e";
+}
+
+.flaticon-barcode:before,
+.flaticon-barcode-integration:before{
+    content: "\f14f";
+}
+
+.flaticon-patient:before {
+    content: "\f150";
+}
+
+.flaticon-medical-prescription:before,
+.flaticon-prescription-and-billing:before{
+    content: "\f151";
+}
+
+.flaticon-queue:before,
+.flaticon-boost-your-clv-foster-unwavering-loyalty:before,
+.flaticon-queue-management:before {
+    content: "\f152";
+}
+
+.flaticon-updated:before,
+.flaticon-real-time-updates:before {
+    content: "\f153";
+}
+
+.flaticon-diagnostic:before,
+.flaticon-integration-with-diagnostic-systems:before,
+.flaticon-electronic-health-records-ehr:before {
+    content: "\f154";
+}
+
+.flaticon-bill:before,
+.flaticon-automated-billing-and-insurance-management:before
+ {
+    content: "\f155";
+}
+.flaticon-bill:before {
+    content: "\f155";
+}
+
+.flaticon-voice-message-app:before {
+    content: "\f156";
+}
+
+.flaticon-responsive:before,
+.flaticon-mobile-responsive-design:before,
+.flaticon-responsive-design-and-mobile-optimization:before {
+    content: "\f157";
+}
+
+.flaticon-porfolios:before {
+    content: "\f158";
+}
+
+.flaticon-customer-support-1:before
+{
+    content: "\f159";
+}
+
+.flaticon-keyword:before,
+.flaticon-keyword-research-strategy:before{
+    content: "\f15a";
+}
+
+.flaticon-link-building:before {
+    content: "\f15b";
+}
+
+.flaticon-local-network:before
+{
+    content: "\f15c";
+}
+
+.flaticon-strategic-seo-integration:before,
+.flaticon-nimble-php-development:before,
+.flaticon-performance-and-speed-assessment:before,
+.flaticon-server-performance-optimization:before,
+.flaticon-boost-your-seo-efforts:before,
+.flaticon-on-page-seo:before {
+    content: "\f15d";
+}
+
+.flaticon-ecommerce-1:before,
+.flaticon-ecommerce-seo:before {
+    content: "\f15e";
+}
+
+.flaticon-setting:before,
+.flaticon-improve-your-bottom-line:before{
+    content: "\f15f";
+}
+
+.flaticon-conversion-rate-optimizer:before,
+.flaticon-conversion-optimization:before,
+.flaticon-conversion-rate-optimization-cro-analysis:before,
+.flaticon-conversion-rate-optimization-cro:before {
+    content: "\f160";
+}
+
+.flaticon-technical-support:before,
+.flaticon-we-offer-round-the-clock-support:before,
+.flaticon-customized-solutions:before,
+.flaticon-dedicated-support-and-ongoing-monitoring:before,
+.flaticon-exceptional-customer-service:before,
+.flaticon-technical-seo:before {
+    content: "\f161";
+}
+
+.flaticon-demand-1:before,
+.flaticon-attract-high-performing-employees:before{
+    content: "\f162";
+}
+
+.flaticon-roi:before,
+.flaticon-were-a-results-driven-agency-that-guarantees:before,
+.flaticon-roi-focused-approach:before {
+    content: "\f163";
+}
+
+.flaticon-picture:before {
+    content: "\f164";
+}
+
+.flaticon-reviews:before,
+.flaticon-usability-and-user-experience-review:before,
+.flaticon-generate-positive-business-reviews:before,
+.flaticon-appeal-to-high-intent-prospects:before {
+    content: "\f165";
+}
+
+.flaticon-activist:before,
+.flaticon-efficient-campaign-planning-and-execution:before,
+.flaticon-specialized-in-providing-customized-solutions:before {
+    content: "\f166";
+}
+
+.flaticon-network-connection:before,
+.flaticon-expanded-reach:before {
+    content: "\f167";
+}
+
+.flaticon-verified:before
+ {
+    content: "\f168";
+}
+
+.flaticon-calendar:before,
+.flaticon-timely-and-efficient-service:before{
+    content: "\f169";
+}
+
+.flaticon-influencer:before,
+.flaticon-customized-influencer-campaigns:before,
+.flaticon-high-engagement-rates:before,
+.flaticon-influencer-events-and-activations:before {
+    content: "\f16a";
+}
+
+.flaticon-reputation:before,
+.flaticon-extensive-experience:before,
+.flaticon-unleashing-collective-potential:before,
+.flaticon-exceptional-talent:before,
+.flaticon-curated-pool-of-talented-designers:before,
+.flaticon-expertise-and-specializations:before,
+.flaticon-actionable-recommendations:before,
+.flaticon-reputation-building:before,
+.flaticon-compliance-and-legal-guidance:before,
+.flaticon-skilled-in-reputation-repair-and-crisis-manag:before,
+.flaticon-creative-excellence:before,
+.flaticon-creative-and-visual-excellence:before,
+.flaticon-highly-experienced-professionals:before {
+    content: "\f16b";
+}
+
+.flaticon-corporate-reputation:before,
+.flaticon-industry-expertise:before,
+.flaticon-online-reputation-management:before {
+    content: "\f16c";
+}
+
+.flaticon-article:before,
+.flaticon-engaging-articles:before,
+.flaticon-expertise-in-content-development-and-seo-opti:before,
+.flaticon-experience-our-portfolio:before {
+    content: "\f16d";
+}
+
+.flaticon-blogging:before,
+.flaticon-informative-blog-posts:before,
+.flaticon-regular-posting:before,
+.flaticon-content-writing:before {
+    content: "\f16e";
+}
+
+.flaticon-edit:before,
+.flaticon-captivating-video-scripts:before{
+    content: "\f16f";
+}
+
+.flaticon-document-1:before,
+.flaticon-expertly-crafted-whitepapers:before{
+    content: "\f170";
+}
+
+.flaticon-tripod:before,
+.flaticon-customized-photoshoot-experiences:before{
+    content: "\f171";
+}
+
+.flaticon-photo:before,
+.flaticon-image-optimization:before,
+.flaticon-professional-photography-sessions:before {
+    content: "\f172";
+}
+
+.flaticon-image-editing:before,
+.flaticon-photo-manipulation:before,
+.flaticon-quality-and-efficiency,
+.flaticon-exceptional-quality:before,
+.flaticon-quality-and-efficiency:before,
+.flaticon-professional-editing-and-retouching:before {
+    content: "\f173";
+}
+
+.flaticon-printer:before,
+.flaticon-print-media-design:before,
+.flaticon-print-and-product-options:before {
+    content: "\f174";
+}
+
+.flaticon-reliability:before
+{
+    content: "\f175";
+}
+
+.flaticon-consultation:before,
+.flaticon-personalized-flutter-consultation:before,
+.flaticon-unparalleled-support-and-communication:before,
+.flaticon-logo-design-consultation:before,
+.flaticon-experienced-and-knowledgeable-consultants:before,
+.flaticon-human-resources-consulting:before,
+.flaticon-ongoing-support-and-consultation:before,
+.flaticon-transparent-reporting-and-communication:before {
+    content: "\f176";
+}
+
+.flaticon-brainstorming:before,
+.flaticon-diverse-design-expertise:before,
+.flaticon-strategic-thinking:before,
+.flaticon-legal-and-compliance-consulting:before,
+.flaticon-personalized-approach:before,
+.flaticon-conversion-driven-approach:before,
+.flaticon-conversion-focused-strategies:before,
+.flaticon-conversion-focused-approach:before,
+.flaticon-cross-functional-expertise:before,
+.flaticon-expertise-in-a-wide-range-of-topics-and-exper:before {
+    content: "\f177";
+}
+
+.flaticon-cdn:before,
+.flaticon-content-delivery-network-cdn-integration:before{
+    content: "\f178";
+}
+
+.flaticon-debugging:before,
+.flaticon-no-bug-coding:before,
+.flaticon-bug-fixes-and-error-resolution:before,
+.flaticon-comprehensive-issue-resolution:before {
+    content: "\f179";
+}
+
+.flaticon-clarity:before,
+.flaticon-secure-and-transparent-communication:before,
+.flaticon-transparent-communication-and-support:before,
+.flaticon-clarity-and-transparency:before,
+.flaticon-transparent-communication:before,
+.flaticon-transparent-reporting:before {
+    content: "\f17a";
+}
+
+.flaticon-css-code:before {
+    content: "\f17b";
+}
+
+.flaticon-logo-design:before,
+.flaticon-custom-logo-design:before {
+    content: "\f17c";
+}
+
+.flaticon-acrobat:before,
+.flaticon-logo-variations-and-formats:before{
+    content: "\f17d";
+}
+.flaticon-guidance:before {
+    content: "\f17e";
+}
+
+.flaticon-compatibility:before {
+    content: "\f17f";
+}
+
+.flaticon-social-media:before,
+.flaticon-social-media-management:before,
+.flaticon-social-media-platform-development:before {
+    content: "\f180";
+}
+
+.flaticon-social-media-marketing:before
+{
+    content: "\f181";
+}
+
+.flaticon-ethic:before,
+.flaticon-strong-work-ethic:before{
+    content: "\f182";
+}
+
+.flaticon-success:before,
+.flaticon-exceptional-results:before,
+.flaticon-outstanding-results:before,
+.flaticon-your-success-is-our-priority:before {
+    content: "\f183";
+}
+
+.flaticon-synergy:before,
+.flaticon-creative-synergy:before,
+.flaticon-collaborative-mindset:before,
+.flaticon-synergistic-collaboration:before {
+    content: "\f184";
+}
+
+.flaticon-team-1:before,
+.flaticon-technological-expertise:before,
+.flaticon-customized-solution:before {
+    content: "\f185";
+}
+
+.flaticon-talent-search:before,
+.flaticon-transparent-developer-profiles:before,
+.flaticon-extensive-talent-pool:before {
+    content: "\f186";
+}
+
+.flaticon-improve:before,
+.flaticon-continual-improvisations:before{
+    content: "\f187";
+}
+
+.flaticon-improve-1:before,
+.flaticon-flutter-platform-migration:before,
+.flaticon-up-gradation-and-migration-services:before,
+.flaticon-migration-and-upgradation:before,
+.flaticon-django-migration-and-upgrades:before,
+.flaticon-continuous-growth-and-learning:before,
+.flaticon-continuous-improvement:before {
+    content: "\f188";
+}
+
+.flaticon-iteration:before,
+.flaticon-100-transparent-procedure:before,
+.flaticon-streamlined-processes:before {
+    content: "\f189";
+}
+
+.flaticon-migration:before,
+.flaticon-xamarin-migration-and-integration:before{
+    content: "\f18a";
+}
+
+.flaticon-framework:before,
+.flaticon-expertise-across-diverse-php-frameworks:before
+{
+    content: "\f18b";
+}
+
+.flaticon-solution-1:before {
+    content: "\f18c";
+}
+
+.flaticon-cross-platform:before,
+.flaticon-psd-to-htmlhtml5-conversion:before,
+.flaticon-seamless-cross-platform-development:before {
+    content: "\f18d";
+}
+
+.flaticon-app-development:before,
+.flaticon-real-time-application-development:before,
+.flaticon-real-time-application-development:before,
+.flaticon-xamarin-app-development:before,
+.flaticon-custom-django-application-development:before,
+.flaticon-custom-ios-app-development:before,
+.flaticon-cross-platform-app-development:before {
+    content: "\f18e";
+}
+
+.flaticon-coding-1:before,
+.flaticon-custom-android-app-development:before,
+.flaticon-latest-technology-development:before,
+.flaticon-laravel-api-development:before,
+.flaticon-integration-of-interactive-elements:before {
+    content: "\f18f";
+}
+
+.flaticon-experience:before {
+    content: "\f190";
+}
+
+.flaticon-digital-painting:before,
+.flaticon-graphic-design:before{
+    content: "\f191";
+}
+
+.flaticon-portfolio:before,
+.flaticon-diverse-portfolio:before{
+    content: "\f192";
+}
+
+.flaticon-project-management:before,
+.flaticon-we-are-a-one-stop-solution-for-your-all-wordp:before,
+.flaticon-customized-project-matching:before,
+.flaticon-innovative-solutions:before {
+    content: "\f193";
+}
+
+.flaticon-enterprise:before,
+.flaticon-flutter-enterprise-apps:before{
+    content: "\f194";
+}
+
+.flaticon-certified:before,
+.flaticon-certified-developers:before{
+    content: "\f195";
+}
+
+.flaticon-agile:before,
+.flaticon-agile-development-process:before,
+.flaticon-agile-development-approach:before {
+    content: "\f196";
+}
+
+.flaticon-full-stack:before,
+.flaticon-full-stack-nodejs-development:before{
+    content: "\f197";
+}
+
+.flaticon-erp:before {
+    content: "\f198";
+}
+.flaticon-microservice:before,
+.flaticon-microservices-architecture:before {
+    content: "\f199";
+}
+
+.flaticon-database:before,
+.flaticon-database-integration:before{
+    content: "\f19a";
+}

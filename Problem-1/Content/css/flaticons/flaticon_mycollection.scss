@@ -1,0 +1,641 @@
+$flaticon_mycollection-font: "flaticon_mycollection";
+
+@font-face {
+    font-family: $flaticon_mycollection-font;
+    src: url("./flaticon_mycollection.ttf?973735be18eaf5a9e4c0c759916aaa42") format("truetype"),
+url("./flaticon_mycollection.woff?973735be18eaf5a9e4c0c759916aaa42") format("woff"),
+url("./flaticon_mycollection.woff2?973735be18eaf5a9e4c0c759916aaa42") format("woff2"),
+url("./flaticon_mycollection.eot?973735be18eaf5a9e4c0c759916aaa42#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.svg?973735be18eaf5a9e4c0c759916aaa42#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_mycollection-map: (
+    "online-shopping": "\f101",
+    "service": "\f102",
+    "rating-stars": "\f103",
+    "team": "\f104",
+    "illustration": "\f105",
+    "concept": "\f106",
+    "customer-support": "\f107",
+    "ecommerce": "\f108",
+    "management-service": "\f109",
+    "design": "\f10a",
+    "coding": "\f10b",
+    "branding": "\f10c",
+    "analysis": "\f10d",
+    "high-speed": "\f10e",
+    "mobile-development": "\f10f",
+    "ux-design": "\f110",
+    "secure-data": "\f111",
+    "touch-screen": "\f112",
+    "ui-design": "\f113",
+    "website": "\f114",
+    "ok": "\f115",
+    "business-people": "\f116",
+    "payment": "\f117",
+    "bullhorn": "\f118",
+    "brand-engagement": "\f119",
+    "manager": "\f11a",
+    "strategy": "\f11b",
+    "group-idea": "\f11c",
+    "content-management": "\f11d",
+    "interactive": "\f11e",
+    "html-5": "\f11f",
+    "assurance": "\f120",
+    "on-time": "\f121",
+    "demand": "\f122",
+    "globalization": "\f123",
+    "website-1": "\f124",
+    "wordpress": "\f125",
+    "web-plugin": "\f126",
+    "solution": "\f127",
+    "revision": "\f128",
+    "relationship": "\f129",
+    "banking": "\f12a",
+    "report": "\f12b",
+    "integration": "\f12c",
+    "scalable": "\f12d",
+    "cyber-security": "\f12e",
+    "hosting": "\f12f",
+    "ui-design-1": "\f130",
+    "web-design": "\f131",
+    "product": "\f132",
+    "flexibility": "\f133",
+    "develop": "\f134",
+    "content": "\f135",
+    "contact-form": "\f136",
+    "navigation": "\f137",
+    "efficiency": "\f138",
+    "data-driven": "\f139",
+    "filter": "\f13a",
+    "search": "\f13b",
+    "social-reach": "\f13c",
+    "agreement": "\f13d",
+    "robust": "\f13e",
+    "to-do-list": "\f13f",
+    "approach": "\f140",
+    "infographic": "\f141",
+    "monetization": "\f142",
+    "match": "\f143",
+    "conversation": "\f144",
+    "manufacture": "\f145",
+    "programing": "\f146",
+    "portal": "\f147",
+    "workflow": "\f148",
+    "development": "\f149",
+    "data-analysis": "\f14a",
+    "salary": "\f14b",
+    "employee": "\f14c",
+    "recruitment": "\f14d",
+    "inventory": "\f14e",
+    "barcode": "\f14f",
+    "patient": "\f150",
+    "medical-prescription": "\f151",
+    "queue": "\f152",
+    "updated": "\f153",
+    "diagnostic": "\f154",
+    "bill": "\f155",
+    "voice-message-app": "\f156",
+    "responsive": "\f157",
+    "porfolios": "\f158",
+    "customer-support-1": "\f159",
+    "keyword": "\f15a",
+    "link-building": "\f15b",
+    "local-network": "\f15c",
+    "seo": "\f15d",
+    "ecommerce-1": "\f15e",
+    "setting": "\f15f",
+    "conversion-rate-optimizer": "\f160",
+    "technical-support": "\f161",
+    "demand-1": "\f162",
+    "roi": "\f163",
+    "picture": "\f164",
+    "reviews": "\f165",
+    "activist": "\f166",
+    "network-connection": "\f167",
+    "verified": "\f168",
+    "calendar": "\f169",
+    "influencer": "\f16a",
+    "reputation": "\f16b",
+    "corporate-reputation": "\f16c",
+    "article": "\f16d",
+    "blogging": "\f16e",
+    "edit": "\f16f",
+    "document-1": "\f170",
+    "tripod": "\f171",
+    "photo": "\f172",
+    "image-editing": "\f173",
+    "printer": "\f174",
+    "reliability": "\f175",
+    "consultation": "\f176",
+    "brainstorming": "\f177",
+    "cdn": "\f178",
+    "debugging": "\f179",
+    "clarity": "\f17a",
+    "css-code": "\f17b",
+    "logo-design": "\f17c",
+    "acrobat": "\f17d",
+    "guidance": "\f17e",
+    "compatibility": "\f17f",
+    "social-media": "\f180",
+    "social-media-marketing": "\f181",
+    "ethic": "\f182",
+    "success": "\f183",
+    "synergy": "\f184",
+    "team-1": "\f185",
+    "talent-search": "\f186",
+    "improve": "\f187",
+    "improve-1": "\f188",
+    "iteration": "\f189",
+    "migration": "\f18a",
+    "framework": "\f18b",
+    "solution-1": "\f18c",
+    "cross-platform": "\f18d",
+    "app-development": "\f18e",
+    "coding-1": "\f18f",
+    "experience": "\f190",
+    "digital-painting": "\f191",
+    "portfolio": "\f192",
+    "project-management": "\f193",
+    "enterprise": "\f194",
+    "certified": "\f195",
+    "agile": "\f196",
+    "full-stack": "\f197",
+    "erp": "\f198",
+    "microservice": "\f199",
+    "database": "\f19a",
+);
+
+.flaticon-online-shopping:before {
+    content: map-get($flaticon_mycollection-map, "online-shopping");
+}
+.flaticon-service:before {
+    content: map-get($flaticon_mycollection-map, "service");
+}
+.flaticon-rating-stars:before {
+    content: map-get($flaticon_mycollection-map, "rating-stars");
+}
+.flaticon-team:before {
+    content: map-get($flaticon_mycollection-map, "team");
+}
+.flaticon-illustration:before {
+    content: map-get($flaticon_mycollection-map, "illustration");
+}
+.flaticon-concept:before {
+    content: map-get($flaticon_mycollection-map, "concept");
+}
+.flaticon-customer-support:before {
+    content: map-get($flaticon_mycollection-map, "customer-support");
+}
+.flaticon-ecommerce:before {
+    content: map-get($flaticon_mycollection-map, "ecommerce");
+}
+.flaticon-management-service:before {
+    content: map-get($flaticon_mycollection-map, "management-service");
+}
+.flaticon-design:before {
+    content: map-get($flaticon_mycollection-map, "design");
+}
+.flaticon-coding:before {
+    content: map-get($flaticon_mycollection-map, "coding");
+}
+.flaticon-branding:before {
+    content: map-get($flaticon_mycollection-map, "branding");
+}
+.flaticon-analysis:before {
+    content: map-get($flaticon_mycollection-map, "analysis");
+}
+.flaticon-high-speed:before {
+    content: map-get($flaticon_mycollection-map, "high-speed");
+}
+.flaticon-mobile-development:before {
+    content: map-get($flaticon_mycollection-map, "mobile-development");
+}
+.flaticon-ux-design:before {
+    content: map-get($flaticon_mycollection-map, "ux-design");
+}
+.flaticon-secure-data:before {
+    content: map-get($flaticon_mycollection-map, "secure-data");
+}
+.flaticon-touch-screen:before {
+    content: map-get($flaticon_mycollection-map, "touch-screen");
+}
+.flaticon-ui-design:before {
+    content: map-get($flaticon_mycollection-map, "ui-design");
+}
+.flaticon-website:before {
+    content: map-get($flaticon_mycollection-map, "website");
+}
+.flaticon-ok:before {
+    content: map-get($flaticon_mycollection-map, "ok");
+}
+.flaticon-business-people:before {
+    content: map-get($flaticon_mycollection-map, "business-people");
+}
+.flaticon-payment:before {
+    content: map-get($flaticon_mycollection-map, "payment");
+}
+.flaticon-bullhorn:before {
+    content: map-get($flaticon_mycollection-map, "bullhorn");
+}
+.flaticon-brand-engagement:before {
+    content: map-get($flaticon_mycollection-map, "brand-engagement");
+}
+.flaticon-manager:before {
+    content: map-get($flaticon_mycollection-map, "manager");
+}
+.flaticon-strategy:before {
+    content: map-get($flaticon_mycollection-map, "strategy");
+}
+.flaticon-group-idea:before {
+    content: map-get($flaticon_mycollection-map, "group-idea");
+}
+.flaticon-content-management:before {
+    content: map-get($flaticon_mycollection-map, "content-management");
+}
+.flaticon-interactive:before {
+    content: map-get($flaticon_mycollection-map, "interactive");
+}
+.flaticon-html-5:before {
+    content: map-get($flaticon_mycollection-map, "html-5");
+}
+.flaticon-assurance:before {
+    content: map-get($flaticon_mycollection-map, "assurance");
+}
+.flaticon-on-time:before {
+    content: map-get($flaticon_mycollection-map, "on-time");
+}
+.flaticon-demand:before {
+    content: map-get($flaticon_mycollection-map, "demand");
+}
+.flaticon-globalization:before {
+    content: map-get($flaticon_mycollection-map, "globalization");
+}
+.flaticon-website-1:before {
+    content: map-get($flaticon_mycollection-map, "website-1");
+}
+.flaticon-wordpress:before {
+    content: map-get($flaticon_mycollection-map, "wordpress");
+}
+.flaticon-web-plugin:before {
+    content: map-get($flaticon_mycollection-map, "web-plugin");
+}
+.flaticon-solution:before {
+    content: map-get($flaticon_mycollection-map, "solution");
+}
+.flaticon-revision:before {
+    content: map-get($flaticon_mycollection-map, "revision");
+}
+.flaticon-relationship:before {
+    content: map-get($flaticon_mycollection-map, "relationship");
+}
+.flaticon-banking:before {
+    content: map-get($flaticon_mycollection-map, "banking");
+}
+.flaticon-report:before {
+    content: map-get($flaticon_mycollection-map, "report");
+}
+.flaticon-integration:before {
+    content: map-get($flaticon_mycollection-map, "integration");
+}
+.flaticon-scalable:before {
+    content: map-get($flaticon_mycollection-map, "scalable");
+}
+.flaticon-cyber-security:before {
+    content: map-get($flaticon_mycollection-map, "cyber-security");
+}
+.flaticon-hosting:before {
+    content: map-get($flaticon_mycollection-map, "hosting");
+}
+.flaticon-ui-design-1:before {
+    content: map-get($flaticon_mycollection-map, "ui-design-1");
+}
+.flaticon-web-design:before {
+    content: map-get($flaticon_mycollection-map, "web-design");
+}
+.flaticon-product:before {
+    content: map-get($flaticon_mycollection-map, "product");
+}
+.flaticon-flexibility:before {
+    content: map-get($flaticon_mycollection-map, "flexibility");
+}
+.flaticon-develop:before {
+    content: map-get($flaticon_mycollection-map, "develop");
+}
+.flaticon-content:before {
+    content: map-get($flaticon_mycollection-map, "content");
+}
+.flaticon-contact-form:before {
+    content: map-get($flaticon_mycollection-map, "contact-form");
+}
+.flaticon-navigation:before {
+    content: map-get($flaticon_mycollection-map, "navigation");
+}
+.flaticon-efficiency:before {
+    content: map-get($flaticon_mycollection-map, "efficiency");
+}
+.flaticon-data-driven:before {
+    content: map-get($flaticon_mycollection-map, "data-driven");
+}
+.flaticon-filter:before {
+    content: map-get($flaticon_mycollection-map, "filter");
+}
+.flaticon-search:before {
+    content: map-get($flaticon_mycollection-map, "search");
+}
+.flaticon-social-reach:before {
+    content: map-get($flaticon_mycollection-map, "social-reach");
+}
+.flaticon-agreement:before {
+    content: map-get($flaticon_mycollection-map, "agreement");
+}
+.flaticon-robust:before {
+    content: map-get($flaticon_mycollection-map, "robust");
+}
+.flaticon-to-do-list:before {
+    content: map-get($flaticon_mycollection-map, "to-do-list");
+}
+.flaticon-approach:before {
+    content: map-get($flaticon_mycollection-map, "approach");
+}
+.flaticon-infographic:before {
+    content: map-get($flaticon_mycollection-map, "infographic");
+}
+.flaticon-monetization:before {
+    content: map-get($flaticon_mycollection-map, "monetization");
+}
+.flaticon-match:before {
+    content: map-get($flaticon_mycollection-map, "match");
+}
+.flaticon-conversation:before {
+    content: map-get($flaticon_mycollection-map, "conversation");
+}
+.flaticon-manufacture:before {
+    content: map-get($flaticon_mycollection-map, "manufacture");
+}
+.flaticon-programing:before {
+    content: map-get($flaticon_mycollection-map, "programing");
+}
+.flaticon-portal:before {
+    content: map-get($flaticon_mycollection-map, "portal");
+}
+.flaticon-workflow:before {
+    content: map-get($flaticon_mycollection-map, "workflow");
+}
+.flaticon-development:before {
+    content: map-get($flaticon_mycollection-map, "development");
+}
+.flaticon-data-analysis:before {
+    content: map-get($flaticon_mycollection-map, "data-analysis");
+}
+.flaticon-salary:before {
+    content: map-get($flaticon_mycollection-map, "salary");
+}
+.flaticon-employee:before {
+    content: map-get($flaticon_mycollection-map, "employee");
+}
+.flaticon-recruitment:before {
+    content: map-get($flaticon_mycollection-map, "recruitment");
+}
+.flaticon-inventory:before {
+    content: map-get($flaticon_mycollection-map, "inventory");
+}
+.flaticon-barcode:before {
+    content: map-get($flaticon_mycollection-map, "barcode");
+}
+.flaticon-patient:before {
+    content: map-get($flaticon_mycollection-map, "patient");
+}
+.flaticon-medical-prescription:before {
+    content: map-get($flaticon_mycollection-map, "medical-prescription");
+}
+.flaticon-queue:before {
+    content: map-get($flaticon_mycollection-map, "queue");
+}
+.flaticon-updated:before {
+    content: map-get($flaticon_mycollection-map, "updated");
+}
+.flaticon-diagnostic:before {
+    content: map-get($flaticon_mycollection-map, "diagnostic");
+}
+.flaticon-bill:before {
+    content: map-get($flaticon_mycollection-map, "bill");
+}
+.flaticon-voice-message-app:before {
+    content: map-get($flaticon_mycollection-map, "voice-message-app");
+}
+.flaticon-responsive:before {
+    content: map-get($flaticon_mycollection-map, "responsive");
+}
+.flaticon-porfolios:before {
+    content: map-get($flaticon_mycollection-map, "porfolios");
+}
+.flaticon-customer-support-1:before {
+    content: map-get($flaticon_mycollection-map, "customer-support-1");
+}
+.flaticon-keyword:before {
+    content: map-get($flaticon_mycollection-map, "keyword");
+}
+.flaticon-link-building:before {
+    content: map-get($flaticon_mycollection-map, "link-building");
+}
+.flaticon-local-network:before {
+    content: map-get($flaticon_mycollection-map, "local-network");
+}
+.flaticon-seo:before {
+    content: map-get($flaticon_mycollection-map, "seo");
+}
+.flaticon-ecommerce-1:before {
+    content: map-get($flaticon_mycollection-map, "ecommerce-1");
+}
+.flaticon-setting:before {
+    content: map-get($flaticon_mycollection-map, "setting");
+}
+.flaticon-conversion-rate-optimizer:before {
+    content: map-get($flaticon_mycollection-map, "conversion-rate-optimizer");
+}
+.flaticon-technical-support:before {
+    content: map-get($flaticon_mycollection-map, "technical-support");
+}
+.flaticon-demand-1:before {
+    content: map-get($flaticon_mycollection-map, "demand-1");
+}
+.flaticon-roi:before {
+    content: map-get($flaticon_mycollection-map, "roi");
+}
+.flaticon-picture:before {
+    content: map-get($flaticon_mycollection-map, "picture");
+}
+.flaticon-reviews:before {
+    content: map-get($flaticon_mycollection-map, "reviews");
+}
+.flaticon-activist:before {
+    content: map-get($flaticon_mycollection-map, "activist");
+}
+.flaticon-network-connection:before {
+    content: map-get($flaticon_mycollection-map, "network-connection");
+}
+.flaticon-verified:before {
+    content: map-get($flaticon_mycollection-map, "verified");
+}
+.flaticon-calendar:before {
+    content: map-get($flaticon_mycollection-map, "calendar");
+}
+.flaticon-influencer:before {
+    content: map-get($flaticon_mycollection-map, "influencer");
+}
+.flaticon-reputation:before {
+    content: map-get($flaticon_mycollection-map, "reputation");
+}
+.flaticon-corporate-reputation:before {
+    content: map-get($flaticon_mycollection-map, "corporate-reputation");
+}
+.flaticon-article:before {
+    content: map-get($flaticon_mycollection-map, "article");
+}
+.flaticon-blogging:before {
+    content: map-get($flaticon_mycollection-map, "blogging");
+}
+.flaticon-edit:before {
+    content: map-get($flaticon_mycollection-map, "edit");
+}
+.flaticon-document-1:before {
+    content: map-get($flaticon_mycollection-map, "document-1");
+}
+.flaticon-tripod:before {
+    content: map-get($flaticon_mycollection-map, "tripod");
+}
+.flaticon-photo:before {
+    content: map-get($flaticon_mycollection-map, "photo");
+}
+.flaticon-image-editing:before {
+    content: map-get($flaticon_mycollection-map, "image-editing");
+}
+.flaticon-printer:before {
+    content: map-get($flaticon_mycollection-map, "printer");
+}
+.flaticon-reliability:before {
+    content: map-get($flaticon_mycollection-map, "reliability");
+}
+.flaticon-consultation:before {
+    content: map-get($flaticon_mycollection-map, "consultation");
+}
+.flaticon-brainstorming:before {
+    content: map-get($flaticon_mycollection-map, "brainstorming");
+}
+.flaticon-cdn:before {
+    content: map-get($flaticon_mycollection-map, "cdn");
+}
+.flaticon-debugging:before {
+    content: map-get($flaticon_mycollection-map, "debugging");
+}
+.flaticon-clarity:before {
+    content: map-get($flaticon_mycollection-map, "clarity");
+}
+.flaticon-css-code:before {
+    content: map-get($flaticon_mycollection-map, "css-code");
+}
+.flaticon-logo-design:before {
+    content: map-get($flaticon_mycollection-map, "logo-design");
+}
+.flaticon-acrobat:before {
+    content: map-get($flaticon_mycollection-map, "acrobat");
+}
+.flaticon-guidance:before {
+    content: map-get($flaticon_mycollection-map, "guidance");
+}
+.flaticon-compatibility:before {
+    content: map-get($flaticon_mycollection-map, "compatibility");
+}
+.flaticon-social-media:before {
+    content: map-get($flaticon_mycollection-map, "social-media");
+}
+.flaticon-social-media-marketing:before {
+    content: map-get($flaticon_mycollection-map, "social-media-marketing");
+}
+.flaticon-ethic:before {
+    content: map-get($flaticon_mycollection-map, "ethic");
+}
+.flaticon-success:before {
+    content: map-get($flaticon_mycollection-map, "success");
+}
+.flaticon-synergy:before {
+    content: map-get($flaticon_mycollection-map, "synergy");
+}
+.flaticon-team-1:before {
+    content: map-get($flaticon_mycollection-map, "team-1");
+}
+.flaticon-talent-search:before {
+    content: map-get($flaticon_mycollection-map, "talent-search");
+}
+.flaticon-improve:before {
+    content: map-get($flaticon_mycollection-map, "improve");
+}
+.flaticon-improve-1:before {
+    content: map-get($flaticon_mycollection-map, "improve-1");
+}
+.flaticon-iteration:before {
+    content: map-get($flaticon_mycollection-map, "iteration");
+}
+.flaticon-migration:before {
+    content: map-get($flaticon_mycollection-map, "migration");
+}
+.flaticon-framework:before {
+    content: map-get($flaticon_mycollection-map, "framework");
+}
+.flaticon-solution-1:before {
+    content: map-get($flaticon_mycollection-map, "solution-1");
+}
+.flaticon-cross-platform:before {
+    content: map-get($flaticon_mycollection-map, "cross-platform");
+}
+.flaticon-app-development:before {
+    content: map-get($flaticon_mycollection-map, "app-development");
+}
+.flaticon-coding-1:before {
+    content: map-get($flaticon_mycollection-map, "coding-1");
+}
+.flaticon-experience:before {
+    content: map-get($flaticon_mycollection-map, "experience");
+}
+.flaticon-digital-painting:before {
+    content: map-get($flaticon_mycollection-map, "digital-painting");
+}
+.flaticon-portfolio:before {
+    content: map-get($flaticon_mycollection-map, "portfolio");
+}
+.flaticon-project-management:before {
+    content: map-get($flaticon_mycollection-map, "project-management");
+}
+.flaticon-enterprise:before {
+    content: map-get($flaticon_mycollection-map, "enterprise");
+}
+.flaticon-certified:before {
+    content: map-get($flaticon_mycollection-map, "certified");
+}
+.flaticon-agile:before {
+    content: map-get($flaticon_mycollection-map, "agile");
+}
+.flaticon-full-stack:before {
+    content: map-get($flaticon_mycollection-map, "full-stack");
+}
+.flaticon-erp:before {
+    content: map-get($flaticon_mycollection-map, "erp");
+}
+.flaticon-microservice:before {
+    content: map-get($flaticon_mycollection-map, "microservice");
+}
+.flaticon-database:before {
+    content: map-get($flaticon_mycollection-map, "database");
+}
